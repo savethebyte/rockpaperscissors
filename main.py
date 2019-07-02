@@ -11,7 +11,7 @@ def main():
   try:
     playerValue = int(input("Press the number for your selection\n0. ROCK\n1. PAPER\n2. SCISSORS\nInput: "))
   except:
-    print("You lose\nWhat fucking instrument did you choose?")
+    print("You lose\nWhat instrument did you choose?")
     quit()
 
 #get enemy value
@@ -35,7 +35,7 @@ def main():
   elif playerValue == 2 and enemyValue == 1:
     print('You win!')
   else:
-    print("You lose\nWhat fucking instrument did you choose?")    
+    print("You lose\nWhat instrument did you choose?")    
 
 if __name__== "__main__":
   main()
