@@ -134,3 +134,13 @@ API
 Training
 Blog
 About
+
+# vs code stuff
+.editorconfig
+.vscode
+
+# pip
+requirements.txt
+
+#passwords
+secrets.py
