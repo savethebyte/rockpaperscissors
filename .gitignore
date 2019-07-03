@@ -140,7 +140,7 @@ About
 .vscode
 
 # pip
-requirements.txt
+#requirements.txt
 
 #passwords
 secrets.py
