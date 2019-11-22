@@ -3,7 +3,7 @@
 import random
 
 def main():
-
+    
 #define rock paper scissors variables
   value = {0: 'ROCK', 1: 'PAPER', 2: "SCISSORS"}
 
